@@ -1,6 +1,5 @@
 Salve, salve!
 
-Sou Miguel Castro tenho 17 anos e a minha razão pra continuar por aqui é o meu sonho em ser desenvolvedor Full-Stack...
 <!--
 **MicalouZ/MicalouZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
